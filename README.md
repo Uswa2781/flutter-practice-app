@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Uswa Asif</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<br>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw2pcn7coKgt1134v6EkzNdv&ust=1664527794097000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPC9v7_PufoCFQAAAAAdAAAAABAD">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uswa2781&label=Profile%20views&color=0e75b6&style=flat" alt="uswa2781" /> </p>
 
